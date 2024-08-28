@@ -122,5 +122,6 @@ namespace ConexionEjemplo
             // Muestra mensaje de eliminación
             MessageBox.Show("Filas eliminadas = " + elimindas);
         }
+
     }
 }
